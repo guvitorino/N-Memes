@@ -3,14 +3,12 @@
 
     var self = {
         memesImg: [
-            'http://pm1.narvii.com/6358/4944f591c1438e2208707f0bb5eeec25d58d9e02_hq.jpg',
-            'https://pbs.twimg.com/media/C4s0q72XUAEiXdr.jpg',
-            'https://i.ytimg.com/vi/kmW_gzEjgcw/hqdefault.jpg',
-            'https://i.ytimg.com/vi/TTipr6m0kfs/maxresdefault.jpg',
-            'https://media.lolusercontent.com/api/embedly/1/image/resize?url=http%3A%2F%2Fimgur.com%2FXgfTdsZ.png&key=f0abbd34f14549f3a15cd94dd9970851&width=425',
-            'http://pm1.narvii.com/6362/66c162dd9e6e49358dbc90bfff5f6bd4707253a0_hq.jpg',
-            'https://www.myinstants.com/media/instants_images/sem-titulo_26.jpg',
-            'https://i.ytimg.com/vi/l57FtllsMUI/hqdefault.jpg'
+            'http://s2.glbimg.com/6Nj5RJmCqwSQ2KYhCLAmHHmQ36c=/288x0/top/s.glbimg.com/jo/eg/f/original/2016/10/14/nazaaa.gif',
+            'http://i0.kym-cdn.com/photos/images/original/000/429/265/bff.gif',
+            'https://i.makeagif.com/media/6-20-2016/XQain4.gif',
+            'https://i.makeagif.com/media/3-10-2017/QLq6Zo.gif',
+            'https://abrilcapricho.files.wordpress.com/2017/06/hi.gif?crop=153px%2C0px%2C487px%2C331px&resize=680%2C453&quality=85&strip=info',
+            'https://abrilcapricho.files.wordpress.com/2017/06/gif.gif?w=640&h=360'
         ],
         handleImages: function (lstImgs, time) {
             $.each($('img'), function (i, item) {
